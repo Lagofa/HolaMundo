@@ -2,6 +2,7 @@ package paquete;
 
 import java.util.Arrays;
 
+
 public class Biblioteca implements Cloneable {
 	private Libro[] libros;
 	private int cantidadLibros;
